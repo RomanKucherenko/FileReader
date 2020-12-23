@@ -1,0 +1,24 @@
+{
+  "first_name": "Sammy",
+  "last_name": "Shark",
+  "location": "https://srv-store4.gofile.io/download/JxRYPK/testfilereader.xlsx",
+  "websites": [
+    {
+      "description": "work"
+    },
+    {
+      "desciption": "tutorials"
+    }
+  ],
+  "social_media": [
+    {
+      "description": "twitter"
+    },
+    {
+      "description": "facebook"
+    },
+    {
+      "description": "github"
+    }
+  ]
+}
